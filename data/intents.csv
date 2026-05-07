@@ -1,0 +1,35 @@
+text,intent
+ask me a machine learning interview question,question_request
+start my ai interview practice,question_request
+give me one question from neural networks,question_request
+ask a question about a star search,question_request
+i want to practice nlp questions,question_request
+begin mock interview,question_request
+next question please,question_request
+evaluate my answer,evaluate_answer
+check this answer,evaluate_answer
+score my response,evaluate_answer
+is my answer correct,evaluate_answer
+please review my answer,evaluate_answer
+give feedback on my explanation,evaluate_answer
+what should i improve,recommendation
+recommend weak topics,recommendation
+which unit should i revise,recommendation
+show my progress,recommendation
+suggest topics for revision,recommendation
+explain bayes theorem,explain_concept
+what is a neural network,explain_concept
+explain a star algorithm,explain_concept
+what is prompt engineering,explain_concept
+define reinforcement learning,explain_concept
+explain transformer architecture,explain_concept
+compare cnn and rnn,explain_concept
+hello,greeting
+hi,greeting
+good morning,greeting
+hey there,greeting
+thanks,closing
+thank you,closing
+bye,closing
+end interview,closing
+
