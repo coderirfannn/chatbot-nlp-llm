@@ -741,5 +741,5 @@ def api_chat():
 
 
 if __name__ == "__main__":
-    port = int(os.getenv("FLASK_RUN_PORT", "5000"))
-    app.run(debug=False, port=port, use_reloader=False)
+    port = int(os.getenv("PORT", "5000"))
+    app.run(debug=False, host="0.0.0.0", port=port, use_reloader=False)
